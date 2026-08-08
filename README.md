@@ -5,3 +5,5 @@ Low-Level Network Calls: Uses P/Invoke (iphlpapi.dll - SendARP) to discover devi
 
 Use this in Windows to compile the executable:
 C:\Windows\Microsoft.NET\Framework\v4.0.30319\csc.exe /target:winexe /win32icon:"eth.ico" /out:LAN-Fast-Subnet-Scanner.exe LAN-Fast-Subnet-Scanner.cs
+
+<img width="1280" height="717" alt="image" src="https://github.com/user-attachments/assets/7a77e0fe-bbf4-4b28-b562-963b79f03d76" />
